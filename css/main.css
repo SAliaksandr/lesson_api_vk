@@ -1,1 +1,7 @@
 /** VK Application styles */
+
+.user-info{
+    margin: 10px;
+    border: 1px solid #808080;
+    padding: 5px;
+}
